@@ -3,19 +3,20 @@
 h1
 {
     /* Use vw (Viewport) as the scale because it's better for scaling */
-    margin-left: calc(16px + 4vw);
-    margin-top: calc(16px + 2vw);
-    font-size: calc(16px + 4vw);
+    margin-left: calc(4vw);
+    margin-top: calc(2vw);
+    font-size: calc(6vw);
     font-family: "Segoe MDL2 Assets", sans-serif;
     color: ghostwhite;
 
-    -webkit-text-stroke: 3px black;
+    -webkit-text-stroke: calc(3px) black;
 }
 
 .TitleCitation
 {
-    margin-left: calc(89vw);
+    margin-left: calc(84vw);
     margin-top: calc(26vw + 10px);
+    font-size: calc(1vw);
 
     font-family: "Arial", sans-serif;
     color: white;
