@@ -1,0 +1,43 @@
+
+/* For Titles on different pages */
+h1
+{
+    /* Use vw (Viewport) as the scale because it's better for scaling */
+    margin-left: calc(16px + 4vw);
+    margin-top: calc(16px + 2vw);
+    font-size: calc(16px + 4vw);
+    font-family: "Segoe MDL2 Assets", sans-serif;
+    color: ghostwhite;
+
+    -webkit-text-stroke: 3px black;
+}
+
+.TitleCitation
+{
+    margin-left: calc(89vw);
+    margin-top: calc(26vw + 10px);
+
+    font-family: "Arial", sans-serif;
+    color: white;
+    position: absolute;
+    background-color: black;;
+}
+
+body
+{
+    background-color: whitesmoke;
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+
+.Header
+{
+    position: absolute;
+}
+
+img
+{
+    width: 100%;
+    height: auto;
+}
