@@ -1,15 +1,31 @@
 
 /* For Titles on different pages */
+/* Use vw (Viewport) as the scale because it's better for scaling */
 h1
 {
-    /* Use vw (Viewport) as the scale because it's better for scaling */
+    position: absolute;
+}
+
+.TitleHeader
+{
     margin-left: calc(4vw);
     margin-top: calc(2vw);
-    font-size: calc(6vw);
+    font-size: calc(5.5vw);
     font-family: "Segoe MDL2 Assets", sans-serif;
     color: ghostwhite;
 
     -webkit-text-stroke: 0.25vw black;
+}
+
+.Headers
+{
+    margin-left: calc(4vw);
+    margin-top: calc(3vw);
+    font-size: calc(4vw);
+    font-family: "Segoe MDL2 Assets", sans-serif;
+    color: ghostwhite;
+
+    -webkit-text-stroke: 0.15vw black;
 }
 
 .TitleCitation
@@ -21,7 +37,7 @@ h1
     font-family: "Arial", sans-serif;
     color: white;
     position: absolute;
-    background-color: black;;
+    background-color: black;
 }
 
 body
@@ -32,9 +48,15 @@ body
     height: auto;
 }
 
-.Header
+iframe
 {
+    width: 41vw;
+    height: 23vw;
+
+
     position: absolute;
+    margin-left: calc(3vw);
+    margin-top: calc(22vw);
 }
 
 img
