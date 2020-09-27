@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d04a4594-6a23-4b33-9bf6-ffd123adf27e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/com/tutorial/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/Style.css" afterDir="false" />
-    </list>
+    <list default="true" id="d04a4594-6a23-4b33-9bf6-ffd123adf27e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +92,7 @@
       <workItem from="1601065385044" duration="129000" />
       <workItem from="1601170041812" duration="570000" />
       <workItem from="1601170637129" duration="2727000" />
-      <workItem from="1601178125607" duration="751000" />
+      <workItem from="1601178125607" duration="1053000" />
     </task>
     <servers />
   </component>

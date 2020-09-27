@@ -9,7 +9,7 @@ h1
     font-family: "Segoe MDL2 Assets", sans-serif;
     color: ghostwhite;
 
-    -webkit-text-stroke: calc(3px) black;
+    -webkit-text-stroke: 0.25vw black;
 }
 
 .TitleCitation
