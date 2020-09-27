@@ -15,7 +15,7 @@ h1
 .TitleCitation
 {
     margin-left: calc(84vw);
-    margin-top: calc(26vw + 10px);
+    margin-top: calc(26vw);
     font-size: calc(1vw);
 
     font-family: "Arial", sans-serif;
