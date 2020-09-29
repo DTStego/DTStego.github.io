@@ -1,0 +1,68 @@
+body
+{
+    /* No white border*/
+    margin: 0;
+
+    /* Background Image Stuff */
+    background-image: url('images/BlackSpace.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/* Margins for headers */
+h1
+{
+    margin-left: 2vw;
+}
+
+/* Font stuff for title names, e.g., Climate Change */
+.titleName
+{
+    position: absolute;
+    margin-left: 4.4vw;
+    margin-top: 2.8vw;
+
+    font-size: 5vw;
+    font-family: "Segoe MDL2 Assets", sans-serif;
+    color: white;
+
+    -webkit-text-stroke: 0.225vw black;
+}
+
+.titleImage
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: inline-block;
+}
+
+/* Citations for when the image is at least 1920 pixels wide */
+.fullImageCitation
+{
+    position: absolute;
+    margin-left: calc(83vw);
+    margin-top: calc(26vw);
+    white-space: nowrap;
+
+    font-family: "HoloLens MDL2 Assets", sans-serif;
+    font-size: 1vw;
+    color: white;
+}
+
+.timeline
+{
+    padding: 0;
+    height: 500px;
+    width: auto;
+    display: inline-block;
+}
+
+.timelineWrapper
+{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}

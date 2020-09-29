@@ -6,6 +6,18 @@ h1
     position: absolute;
 }
 
+/* For images in 1080p (16:9) */
+.FullImage
+{
+    width: calc(5vw);
+    height: calc(3vw);
+}
+
+.Test
+{
+    position: fixed;
+}
+
 .TitleHeader
 {
     margin-left: calc(4vw);
@@ -21,11 +33,9 @@ h1
 {
     margin-left: calc(4vw);
     margin-top: calc(3vw);
-    font-size: calc(4vw);
+    font-size: calc(3vw);
     font-family: "Segoe MDL2 Assets", sans-serif;
-    color: ghostwhite;
-
-    -webkit-text-stroke: 0.15vw black;
+    color: black;
 }
 
 .TitleCitation
@@ -36,16 +46,17 @@ h1
 
     font-family: "Arial", sans-serif;
     color: white;
-    position: absolute;
     background-color: black;
 }
 
 body
 {
+    background-repeat: no-repeat;
     background-color: whitesmoke;
     margin: 0;
     width: 100%;
     height: auto;
+    position: absolute;
 }
 
 iframe
@@ -53,8 +64,6 @@ iframe
     width: 41vw;
     height: 23vw;
 
-
-    position: absolute;
     margin-left: calc(3vw);
     margin-top: calc(22vw);
 }
@@ -63,4 +72,6 @@ img
 {
     width: 100%;
     height: auto;
+
+    position: relative;
 }
