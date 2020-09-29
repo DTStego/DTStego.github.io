@@ -55,7 +55,7 @@ h1
 .timeline
 {
     padding: 0;
-    height: 500px;
+    height: 50vh;
     width: auto;
     display: inline-block;
 }
@@ -65,4 +65,11 @@ h1
     overflow-x: scroll;
     overflow-y: hidden;
     white-space: nowrap;
+}
+
+.timelineWrapper.active
+{
+    background: rgba(255, 255, 255, 0.3);
+    cursor: grabbing;
+    transform: scale(1);
 }
