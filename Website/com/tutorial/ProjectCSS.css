@@ -17,7 +17,7 @@ h1
     margin-left: 2vw;
 }
 
-/* Font stuff for title names, e.g., Climate Change */
+/* Font stuff for title names stuff, e.g., Climate Change */
 .titleName
 {
     position: absolute;
@@ -31,6 +31,7 @@ h1
     -webkit-text-stroke: 0.225vw black;
 }
 
+/* Image that comes with the title (Usually below it), e.g., the wildfire picture below "Climate Change" */
 .titleImage
 {
     width: 100%;
@@ -39,8 +40,7 @@ h1
     display: inline-block;
 }
 
-/* Citations for when the image is at least 1920 pixels wide */
-.fullImageCitation
+.titleCitation
 {
     position: absolute;
     margin-left: calc(83vw);
@@ -65,11 +65,4 @@ h1
     overflow-x: scroll;
     overflow-y: hidden;
     white-space: nowrap;
-}
-
-.timelineWrapper.active
-{
-    background: rgba(255, 255, 255, 0.3);
-    cursor: grabbing;
-    transform: scale(1);
 }
