@@ -1,0 +1,24 @@
+.timelineInstruction
+{
+    position: absolute;
+
+    color: white;
+    margin-top: 0.75vw;
+    margin-left: 0.5vw;
+    font-size: 0.85vw;
+
+    white-space: nowrap;
+}
+
+.timelineTitle
+{
+    position: absolute;
+
+    color: white;
+    margin-top: 0.3vw;
+    margin-left: 40.5vw;
+    background-color: black;
+    font-size: 3vh;
+
+    white-space: nowrap;
+}
