@@ -15,10 +15,38 @@ body
     font-family: "Segoe MDL2 Assets", sans-serif;
 }
 
-/* Margins for headers */
-h1
+/* Navigation Bar Stuff*/
+.navbar
 {
-    margin-left: 2vw;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    z-index: 5;
+    position: fixed;
+}
+
+/* Navigation Bar Items */
+.navbar li
+{
+    float: left;
+    background-color: black;
+}
+
+/* Navigation Bar Links */
+.navbar li a
+{
+    text-align: center;
+    color: white;
+    display: block;
+    padding: .875vw 1.01vw;
+    background-color: black;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: darkblue;
 }
 
 /* Font stuff for title names stuff, e.g., Climate Change */
@@ -26,7 +54,7 @@ h1
 {
     position: absolute;
     margin-left: 4.4vw;
-    margin-top: 2.8vw;
+    margin-top: 4vw;
 
     font-size: 6vw;
     color: white;
