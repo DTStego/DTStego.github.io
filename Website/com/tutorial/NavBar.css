@@ -1,0 +1,51 @@
+/* Navigation Bar Stuff*/
+.navbar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    z-index: 5;
+    position: fixed;
+
+    width: 100%;
+    height: auto;
+}
+
+/* Navigation Bar Items */
+.navbar li
+{
+    float: right;
+}
+
+/* Navigation Bar Links */
+.navbar li a
+{
+    text-align: center;
+    color: white;
+    display: block;
+    padding: .875vw 1.01vw;
+    background-color: black;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: darkblue;
+}
+
+@media only screen and (max-width: 500px) {
+    /*shows elements in a column*/
+    ul{
+        flex-direction: column;
+    }
+
+    /* deletes margin on top or bottom of the a tag*/
+    li{
+        margin: 0;
+    }
+    /* makes sure that the a tag will take the entire screen*/
+    a{
+        display: block;
+    }
+}
