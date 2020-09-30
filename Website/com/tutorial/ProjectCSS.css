@@ -66,8 +66,23 @@ body
     display: inline-block;
     white-space: nowrap;
     margin-top: 2vw;
-    margin-left: 1.6vw;
-    width: 22%;
+    margin-left: 0vw;
+    width: 90%;
 
     border: 0.1vw solid ghostwhite;
+}
+
+.effectsCaption
+{
+    font-size: 2vw;
+    color: white;
+}
+
+figure
+{
+    width: 25%;
+    float: left;
+    margin: -0.2vw;
+    text-align: center;
+    padding: 0 0 10vw;
 }
