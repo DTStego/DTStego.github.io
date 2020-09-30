@@ -2,6 +2,7 @@ body
 {
     /* No white border*/
     margin: 0;
+    padding: 0;
 
     /* Background Image Stuff */
     background-image: url('images/BlackSpace.png');
@@ -55,7 +56,7 @@ h1
 .timeline
 {
     padding: 0;
-    height: 50vh;
+    height: 55vh;
     width: auto;
     display: inline-block;
 }
