@@ -28,7 +28,7 @@ h1
     margin-left: 4.4vw;
     margin-top: 2.8vw;
 
-    font-size: 5vw;
+    font-size: 6vw;
     color: white;
 
     -webkit-text-stroke: 0.225vw black;
@@ -55,11 +55,13 @@ h1
     background-color: black;
 }
 
+
+/* For stuff like "Effects" on the main page */
 .centeredTitle
 {
     color: white;
     text-align: center;
-    font-size: 3.5vw;
+    font-size: 4.5vw;
 
     -webkit-text-stroke: 0.15vw black;
 }
@@ -68,7 +70,7 @@ h1
 .timeline
 {
     padding: 0;
-    height: 55vh;
+    height: 48vh;
     width: auto;
     display: inline-block;
 }
@@ -79,4 +81,15 @@ h1
     overflow-x: scroll;
     overflow-y: hidden;
     white-space: nowrap;
+}
+
+/* For the effects pictures on home page */
+.effects
+{
+    display: inline-block;
+    margin-top: 2vw;
+    margin-left: 1.6vw;
+    width: 22.5%;
+
+    border: 0.1vw solid ghostwhite;
 }
