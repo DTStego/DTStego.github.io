@@ -121,4 +121,9 @@ label.navbarTitle
     {
         left: 0;
     }
+    .titleName
+    {
+        margin-top: 7.5vw;
+        font-size: 6.5vw;
+    }
 }
