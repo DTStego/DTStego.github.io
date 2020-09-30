@@ -32,6 +32,7 @@ nav ul li a
     padding: 1vw 2vw;
     border-radius: 0.25vw;
     text-align: center;
+    text-transform: uppercase;
 }
 
 a:hover
@@ -52,7 +53,7 @@ label.navbarTitle
     font-size: 3vw;
     color: white;
     float: right;
-    line-height: 3.5vw;
+    line-height: 4.5vw;
     margin-right: 1vw;
     cursor: pointer;
     display: none;
@@ -114,7 +115,7 @@ label.navbarTitle
     }
     nav
     {
-     height: 4.5vw;
+     height: 5vw;
     }
     #check:checked ~ ul
     {
