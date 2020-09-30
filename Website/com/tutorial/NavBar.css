@@ -1,51 +1,119 @@
-/* Navigation Bar Stuff*/
-.navbar
+nav
 {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: black;
-    z-index: 5;
     position: fixed;
+    z-index: 5;
 
+    background-color: black;
+    height: 3vw;
     width: 100%;
-    height: auto;
 }
 
-/* Navigation Bar Items */
-.navbar li
+nav ul
 {
     float: right;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
 }
 
-/* Navigation Bar Links */
-.navbar li a
+nav ul li
 {
-    text-align: center;
-    color: white;
-    display: block;
-    padding: .875vw 1.01vw;
-    background-color: black;
+    display: inline-block;
+    line-height: 3vw;
+    margin: 0 1vw;
+}
+
+nav ul li a
+{
     text-decoration: none;
+    color: white;
+    font-size: 1vw;
+    padding: 1vw 2vw;
+    border-radius: 0.25vw;
+    text-align: center;
 }
 
-.navbar a:hover {
-    background-color: darkblue;
+a:hover
+{
+    background: darkblue;
+    transition: .4s;
 }
 
-@media only screen and (max-width: 500px) {
-    /*shows elements in a column*/
-    ul{
-        flex-direction: column;
+label.navbarTitle
+{
+    color: white;
+    line-height: 2.6vw;
+    padding: 0 1.5vw;
+}
+
+.checkbtn
+{
+    font-size: 2vw;
+    color: white;
+    float: right;
+    line-height: 2.4vw;
+    margin-right: 1vw;
+    cursor: pointer;
+    display: none;
+}
+
+#check
+{
+    display: none;
+}
+
+@media (max-width: 1920px)
+{
+    label.navbarTitle
+    {
+        font-size: 1.5vw;
     }
 
-    /* deletes margin on top or bottom of the a tag*/
-    li{
-        margin: 0;
+    nav ul li a
+    {
+        font-size: 1vw;
     }
-    /* makes sure that the a tag will take the entire screen*/
-    a{
+}
+
+@media (max-width: 950px)
+{
+
+    .checkbtn
+    {
         display: block;
+    }
+    ul
+    {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+
+        background: white;
+        top: 3vw;
+        left: -100%;
+        text-align: center;
+        transition: all .5s;
+    }
+    nav ul li
+    {
+        display: block;
+        margin: 3vw 0;
+        line-height: 3vw;
+    }
+    nav ul li a
+    {
+        font-size: 3vw;
+        color: black;
+    }
+    a:hover
+    {
+        padding-bottom: 1.25vw;
+        background: cornflowerblue;
+        color: black;
+    }
+    #check:checked ~ ul
+    {
+        left: 0;
     }
 }
