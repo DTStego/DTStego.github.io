@@ -49,10 +49,10 @@ label.navbarTitle
 
 .checkbtn
 {
-    font-size: 2vw;
+    font-size: 3vw;
     color: white;
     float: right;
-    line-height: 2.4vw;
+    line-height: 3.5vw;
     margin-right: 1vw;
     cursor: pointer;
     display: none;
@@ -90,7 +90,7 @@ label.navbarTitle
         height: 100vh;
 
         background: white;
-        top: 3vw;
+        top: 4.5vw;
         left: -100%;
         text-align: center;
         transition: all .5s;
@@ -111,6 +111,10 @@ label.navbarTitle
         padding-bottom: 1.25vw;
         background: cornflowerblue;
         color: black;
+    }
+    nav
+    {
+     height: 4.5vw;
     }
     #check:checked ~ ul
     {
