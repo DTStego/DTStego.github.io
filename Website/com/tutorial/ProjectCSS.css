@@ -87,6 +87,7 @@ h1
 .effects
 {
     display: inline-block;
+    white-space: nowrap;
     margin-top: 2vw;
     margin-left: 1.6vw;
     width: 22.5%;
