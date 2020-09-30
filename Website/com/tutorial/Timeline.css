@@ -1,3 +1,20 @@
+/* Specific timeline stuff for the timeline photo */
+.timeline
+{
+    padding: 0;
+    height: 27vw;
+    width: auto;
+    display: inline-block;
+}
+
+/* Timeline stuff for scrolling */
+.timelineWrapper
+{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
 .timelineInstruction
 {
     position: absolute;
