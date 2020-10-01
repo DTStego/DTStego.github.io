@@ -145,3 +145,12 @@ body
     position: absolute;
     font-size: 0.8vw;
 }
+
+.articleEnding
+{
+    line-height: 2.5vw;
+    margin-left: 4vw;
+    margin-right: 35vw;
+
+    font-size: 1vw;
+}
