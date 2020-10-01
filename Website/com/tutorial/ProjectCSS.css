@@ -133,7 +133,7 @@ body
 .articleImage
 {
     position: absolute;
-    margin-left: 38vw;
+    margin-left: 36vw;
     width: 30%;
     height: auto;
 
@@ -143,7 +143,7 @@ body
 .articleCaption
 {
     position: absolute;
-    margin-left: 42vw;
+    margin-left: 40vw;
     margin-top: 12.5vw;
 
     font-size: 0.8vw;
