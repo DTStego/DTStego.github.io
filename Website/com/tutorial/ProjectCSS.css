@@ -127,7 +127,7 @@ body
     margin-left: 9vw;
 
 
-    font-size: 1vw;
+    font-size: 1.1vw;
 }
 
 .articleImage
@@ -143,8 +143,5 @@ body
 .articleCaption
 {
     position: absolute;
-    margin-left: 40vw;
-    margin-top: 12.5vw;
-
     font-size: 0.8vw;
 }
