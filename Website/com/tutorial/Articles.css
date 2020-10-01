@@ -1,0 +1,74 @@
+/* For the in-depth effects part */
+.whiteBox
+{
+    background-color: white;
+    border-radius: 0.3vw;
+    color: black;
+    left: 15%;
+
+    width: 70%;
+    height: 98vw;
+    position: relative;
+}
+
+.articleTitle
+{
+    margin-left: 3.5vw;
+    padding-top: 2.5vw;
+
+    font-size: 2.5vw;
+}
+
+.articleText
+{
+    line-height: 5vw;
+    margin-left: 6vw;
+    margin-right: 8vw;
+
+    font-size: 1vw;
+}
+
+.articleList
+{
+    line-height: 5vw;
+    margin-left: 9vw;
+
+
+    font-size: 1.1vw;
+}
+
+.articleImage
+{
+    position: absolute;
+    margin-left: 36vw;
+    width: 30%;
+    height: auto;
+
+    border: 0.2vw solid black;
+}
+
+.articleCaption
+{
+    position: absolute;
+    font-size: 0.8vw;
+}
+
+.articleEnding
+{
+    line-height: 2.5vw;
+    margin-left: 4vw;
+    margin-right: 35vw;
+
+    font-size: 1vw;
+}
+
+.articleVideo
+{
+    margin-left: 8%;
+    margin-top: 1.5vw;
+    width: 58vw;
+    height: 32.7vw;
+
+    border: 0.2vw solid black;
+    border-radius: 0.3vw;
+}
