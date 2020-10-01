@@ -4,15 +4,25 @@ body
     margin: 0;
     padding: 0;
 
-    /* Background Image Stuff */
-    background-image: url('images/BlackSpace.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-
     /* Default font for all text (Overridable) */
     font-family: "Segoe MDL2 Assets", sans-serif;
+}
+
+/* Background Image Stuff */
+body:before {
+    content: "";
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -10;
+    background: url(images/BlackSpace.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 /* Font stuff for title names stuff, e.g., Climate Change */
