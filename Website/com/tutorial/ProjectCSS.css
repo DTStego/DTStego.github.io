@@ -63,13 +63,17 @@ body
 /* For the effects pictures on home page */
 .effects
 {
-    display: inline-block;
-    white-space: nowrap;
     margin-top: 2vw;
-    margin-left: 0vw;
+    margin-left: 0;
     width: 90%;
 
     border: 0.1vw solid ghostwhite;
+}
+
+.effectsWrapper
+{
+    display: inline-block;
+    white-space: nowrap;
 }
 
 .effectsCaption
@@ -78,11 +82,69 @@ body
     color: white;
 }
 
-figure
+.effectsIcons
 {
     width: 25%;
     float: left;
     margin: -0.2vw;
     text-align: center;
     padding: 0 0 10vw;
+}
+
+/* For the in-depth effects part */
+.whiteBox
+{
+    background-color: white;
+    border-radius: 0.3vw;
+    color: black;
+    left: 15%;
+
+    width: 70%;
+    height: 70vw;
+    position: relative;
+}
+
+.articleTitle
+{
+    margin-left: 3.5vw;
+    padding-top: 2.5vw;
+
+    font-size: 2.5vw;
+}
+
+.articleText
+{
+    line-height: 5vw;
+    margin-left: 6vw;
+    margin-right: 8vw;
+
+    font-size: 1vw;
+}
+
+.articleList
+{
+    line-height: 5vw;
+    margin-left: 9vw;
+
+
+    font-size: 1vw;
+}
+
+.articleImage
+{
+    position: absolute;
+    margin-left: 38vw;
+    width: 30%;
+    height: auto;
+
+    border: 0.2vw solid black;
+}
+
+.articleCaption
+{
+    position: absolute;
+    margin-left: 42vw;
+    margin-top: 12.5vw;
+
+    font-size: 0.8vw;
 }
