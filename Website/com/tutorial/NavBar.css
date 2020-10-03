@@ -132,10 +132,11 @@ label.navbarTitle
     }
     .titleCitation
     {
-        margin-top: calc(28vw);
+        margin-top: calc(30vw);
     }
     .alternativeTitle
     {
         margin-top: 5.3vw;
+        color: green;
     }
 }

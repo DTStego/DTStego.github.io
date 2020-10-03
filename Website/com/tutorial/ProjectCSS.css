@@ -64,8 +64,8 @@ body:before {
 .titleCitation
 {
     position: absolute;
-    margin-left: calc(83vw);
-    margin-top: calc(26vw);
+    margin-left: calc(82vw);
+    margin-top: calc(28vw);
     white-space: nowrap;
 
     font-size: 1vw;
