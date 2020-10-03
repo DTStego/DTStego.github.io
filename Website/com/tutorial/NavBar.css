@@ -126,4 +126,12 @@ label.navbarTitle
         margin-top: 7.5vw;
         font-size: 6.5vw;
     }
+    .titleImage
+    {
+        margin-top: 5vw;
+    }
+    .titleCitation
+    {
+        margin-top: calc(28vw);
+    }
 }

@@ -41,9 +41,11 @@ body:before {
 /* Image that comes with the title (Usually below it), e.g., the wildfire picture below "Climate Change" */
 .titleImage
 {
+    /* To compensate for navbar */
+    margin-top: 3vw;
+
     width: 100%;
     height: auto;
-    margin: auto;
     display: inline-block;
 }
 
