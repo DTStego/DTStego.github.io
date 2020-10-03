@@ -38,6 +38,18 @@ body:before {
     -webkit-text-stroke: 0.225vw black;
 }
 
+.alternativeTitle
+{
+    position: absolute;
+    margin-left: 2.8vw;
+    margin-top: 3.8vw;
+
+    font-size: 5.5vw;
+    color: white;
+
+    -webkit-text-stroke: 0.225vw black;
+}
+
 /* Image that comes with the title (Usually below it), e.g., the wildfire picture below "Climate Change" */
 .titleImage
 {
