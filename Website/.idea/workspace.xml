@@ -20,8 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d04a4594-6a23-4b33-9bf6-ffd123adf27e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Aerosol Injection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Carbon Capture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Forestation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Geothermal Energy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Hydroelectricity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Solar Energy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Space Mirrors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Wind Energy.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/tutorial/NavBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/NavBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/ProjectCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/ProjectCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Solutions/Geoengineering.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Geoengineering.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/solutions.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +75,7 @@
       <recent name="C:\Users\Jimmy\Documents\GitHub\DTStego.github.io\Website\com\tutorial\images\Home" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.solutions.html">
     <configuration name="Project.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial/Project.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -73,19 +85,19 @@
     <configuration name="Stegosaurus.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Tutorial/com/tutorial/Stegosaurus.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Tutorial/com/tutorial/Test.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial/index.html" useBuiltInWebServerPort="true">
+    <configuration name="solutions.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial/solutions.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.solutions.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Project.html" />
         <item itemvalue="JavaScript Debug.SeniorProject.html" />
         <item itemvalue="JavaScript Debug.Stegosaurus.html" />
-        <item itemvalue="JavaScript Debug.Test.html" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +124,7 @@
       <workItem from="1601453935208" duration="828000" />
       <workItem from="1601499935420" duration="29265000" />
       <workItem from="1601695548031" duration="3542000" />
-      <workItem from="1601767241368" duration="7929000" />
+      <workItem from="1601767241368" duration="12537000" />
     </task>
     <servers />
   </component>
