@@ -18,7 +18,6 @@ body:before {
     width: 100%;
     height: 100%;
     z-index: -10;
-    background: url(images/BlackSpace.png) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
