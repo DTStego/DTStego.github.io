@@ -21,7 +21,30 @@
   <component name="ChangeListManager">
     <list default="true" id="d04a4594-6a23-4b33-9bf6-ffd123adf27e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tutorial/ProjectCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/ProjectCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/NavBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/NavBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Background Image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/BlackSpace Original.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/BlackSpace Original.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/BlackSpace.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/BlackSpace.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Dirty Air.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Dirty Air.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Extreme Weather.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Extreme Weather.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Flooding.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Flooding.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Geoengineering.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Geoengineering.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Ice Melting Cropped.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Ice Melting Cropped.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Ice Melting Original.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Ice Melting Original.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Melting Glaciers.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Melting Glaciers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Ocean Acidification Original.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Ocean Acidification Original.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Ocean Acidification without Turtles.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Ocean Acidification without Turtles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Ocean Acidification.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Ocean Acidification.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Renewables.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Renewables.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Rising Temperatures Original.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Rising Temperatures Original.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Rising Temperatures.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Rising Temperatures.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/SkyBackground.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/SkyBackground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Solutions Background.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Solutions Background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Storm.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Storm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Timeline.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Timeline.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Tornado.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Tornado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Wildfire (Article).png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Wildfire (Article).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Wildfire.png" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/images/Home/Wildfire.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/tutorial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/tutorial/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/solutions.html" afterDir="false" />
     </list>
@@ -58,6 +81,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jimmy\Documents\GitHub\DTStego.github.io\Website\com\tutorial\images\Solutions" />
+      <recent name="C:\Users\Jimmy\Documents\GitHub\DTStego.github.io\Website\com\tutorial\images\Home" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Project.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial/Project.html" useBuiltInWebServerPort="true">
@@ -108,7 +137,7 @@
       <workItem from="1601453935208" duration="828000" />
       <workItem from="1601499935420" duration="29265000" />
       <workItem from="1601695548031" duration="3542000" />
-      <workItem from="1601767241368" duration="5779000" />
+      <workItem from="1601767241368" duration="7596000" />
     </task>
     <servers />
   </component>
