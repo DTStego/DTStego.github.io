@@ -74,11 +74,11 @@ body:before {
 
 
 /* For stuff like "Effects" on the main page */
-.centeredTitle
+.secondaryTitle
 {
     color: white;
-    text-align: center;
     font-size: 4.5vw;
+    text-align: center;
 
     -webkit-text-stroke: 0.15vw black;
 }
