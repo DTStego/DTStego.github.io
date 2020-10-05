@@ -99,3 +99,11 @@
         margin-left: -2vw;
     }
 }
+
+@media (max-width: 650px)
+{
+    .solutionList
+    {
+        margin-left: -3vw;
+    }
+}
