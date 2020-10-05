@@ -70,3 +70,16 @@
     font-size: 1.5vw;
     margin-left: 2vw;
 }
+
+@media (max-width: 860px)
+{
+    .solutionBox
+    {
+        height: 50vw;
+    }
+
+    .solutionTitle
+    {
+        color: green;
+    }
+}
