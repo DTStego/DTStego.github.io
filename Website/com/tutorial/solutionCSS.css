@@ -29,15 +29,23 @@
 
 .solutionBox
 {
-    margin-bottom: 6vw;
+    margin-bottom: 0;
     background-color: white;
     border-radius: 0.4vw;
     color: black;
     border: 0.15vw solid black;
 
-    margin-top: 6vw;
-    width: 35%;
-    height: 34vw;
+    margin-top: 5vw;
+    width: 31%;
+    height: 40vw;
     position: relative;
     display: inline-block;
+}
+
+.solutionTitle
+{
+    margin-left: 3vw;
+    padding-top: 0.75vw;
+
+    font-size: 2vw;
 }
