@@ -66,8 +66,9 @@
 .listBullet
 {
     width: 1.25%;
+    height: auto;
     position: absolute;
-    margin-top: 1.2vw;
+    margin-top: 1.15vw;
     margin-left: 3.55vw
 }
 
