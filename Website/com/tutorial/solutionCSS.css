@@ -41,6 +41,8 @@
     height: 40vw;
     position: relative;
     display: inline-block;
+    white-space: nowrap;
+
 }
 
 .solutionTitle
@@ -54,7 +56,6 @@
 .solutionList
 {
     line-height: 2.25vw;
-    margin-right: 1.8vw;
     margin-left: 1vw;
 
     font-size: 1.1vw;
@@ -69,17 +70,4 @@
 {
     font-size: 1.5vw;
     margin-left: 2vw;
-}
-
-@media (max-width: 860px)
-{
-    .solutionBox
-    {
-        height: 50vw;
-    }
-
-    .solutionTitle
-    {
-        color: green;
-    }
 }
