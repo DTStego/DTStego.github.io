@@ -114,32 +114,3 @@ body:before {
     text-align: center;
     padding: 0 0 10vw;
 }
-
-/* Actual Solution Images */
-.solutions
-{
-    margin-top: 2vw;
-    margin-left: 0;
-    width: 90%;
-
-    border: 0.15vw solid black;
-}
-
-/* <Figure> */
-.solutionImages
-{
-    width: 25%;
-    float: left;
-    margin: -0.6vw;
-    text-align: center;
-    padding: 0 0 8vw;
-
-}
-
-.solutionCaption
-{
-    position: absolute;
-    font-size: 2.5vw;
-    font-family: "JetBrains Mono", sans-serif;
-    font-weight: normal;
-}
