@@ -33,11 +33,11 @@
     margin-bottom: 0;
     background-color: white;
     border-radius: 0.4vw;
-    color: blue;
-    border: 0.15vw solid black;
+    color: black;
+    border: 0.25vw solid black;
 
     margin-top: 5vw;
-    width: 31%;
+    width: 32%;
     height: 40vw;
     position: relative;
     display: inline-block;
