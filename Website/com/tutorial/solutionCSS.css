@@ -27,6 +27,7 @@
     font-weight: normal;
 }
 
+/* Start of articles (CSS) */
 .solutionBox
 {
     margin-bottom: 0;
@@ -44,8 +45,28 @@
 
 .solutionTitle
 {
-    margin-left: 3vw;
-    padding-top: 0.75vw;
+    margin-top: 0.75vw;
+    margin-left: 1.25vw;
 
-    font-size: 2vw;
+    font-size: 2.5vw;
+}
+
+.solutionList
+{
+    line-height: 2.25vw;
+    margin-right: 1.8vw;
+    margin-left: 1vw;
+
+    font-size: 1.1vw;
+}
+
+.solutionList li
+{
+    padding-bottom: 1.5vw;
+}
+
+.solutionStatistic
+{
+    font-size: 1.5vw;
+    margin-left: 2vw;
 }
