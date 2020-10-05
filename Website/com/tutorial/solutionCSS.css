@@ -33,7 +33,7 @@
     margin-bottom: 0;
     background-color: white;
     border-radius: 0.4vw;
-    color: green;
+    color: red;
     border: 0.15vw solid black;
 
     margin-top: 5vw;
@@ -78,7 +78,7 @@
 {
     .solutionList
     {
-        margin-left: 0;
+        margin-left: -1vw;
     }
 }
 
@@ -86,7 +86,7 @@
 {
     .solutionList
     {
-        margin-left: -1vw;
+        margin-left: -2vw;
     }
 }
 
@@ -94,7 +94,7 @@
 {
     .solutionList
     {
-        margin-left: -2vw;
+        margin-left: -3vw;
     }
 }
 
@@ -102,6 +102,6 @@
 {
     .solutionList
     {
-        margin-left: -3vw;
+        margin-left: -4vw;
     }
 }
