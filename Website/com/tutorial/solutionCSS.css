@@ -42,6 +42,7 @@
     position: relative;
     display: inline-block;
     white-space: nowrap;
+    overflow: hidden;
 
 }
 
@@ -96,13 +97,5 @@
     .solutionList
     {
         margin-left: -2vw;
-    }
-}
-
-@media (max-width: 650px)
-{
-    .solutionList
-    {
-        margin-left: -3vw;
     }
 }
