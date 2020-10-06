@@ -41,9 +41,6 @@
     height: 40vw;
     position: relative;
     display: inline-block;
-    white-space: nowrap;
-    overflow: hidden;
-
 }
 
 .solutionTitle
@@ -57,11 +54,10 @@
 .solutionList
 {
     line-height: 2.25vw;
+    margin-right: 1.8vw;
     margin-left: 1vw;
-    margin-right: 2vw;
 
     font-size: 1.1vw;
-    min-width: 500px;
 }
 
 .solutionList li
@@ -75,27 +71,15 @@
     margin-left: 2vw;
 }
 
-/* For list problem on mobile where it moves with scaling */
-@media (max-width: 950px)
+@media (max-width: 860px)
 {
-    .solutionList
+    .solutionBox
     {
-        margin-left: 0;
+        height: 50vw;
     }
-}
 
-@media (max-width: 850px)
-{
-    .solutionList
+    .solutionTitle
     {
-        margin-left: -1vw;
-    }
-}
-
-@media (max-width: 750px)
-{
-    .solutionList
-    {
-        margin-left: -2vw;
+        color: green;
     }
 }
