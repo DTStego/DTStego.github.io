@@ -34,13 +34,14 @@
     background-color: white;
     border-radius: 0.4vw;
     color: black;
-    border: 0.25vw solid black;
+    border: 0.15vw solid black;
 
     margin-top: 5vw;
-    width: 32%;
+    width: 31%;
     height: 40vw;
     position: relative;
     display: inline-block;
+    white-space: nowrap;
 
 }
 
@@ -78,7 +79,7 @@
 {
     .solutionList
     {
-        margin-left: -2vw;
+        margin-left: 0;
     }
 }
 
@@ -86,7 +87,7 @@
 {
     .solutionList
     {
-        margin-left: -3vw;
+        margin-left: -1vw;
     }
 }
 
@@ -94,7 +95,7 @@
 {
     .solutionList
     {
-        margin-left: -3vw;
+        margin-left: -2vw;
     }
 }
 
@@ -102,6 +103,6 @@
 {
     .solutionList
     {
-        margin-left: -4vw;
+        margin-left: -3vw;
     }
 }
