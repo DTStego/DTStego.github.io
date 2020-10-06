@@ -56,6 +56,8 @@
 .solutionVideo
 {
     position: absolute;
+    margin-left: 34.5vw;
+
     width: 30vw;
     height: 17vw;
     border: 0.2vw solid black;
