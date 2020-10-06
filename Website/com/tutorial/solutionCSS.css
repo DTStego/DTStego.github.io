@@ -54,22 +54,17 @@
 
 .solutionList
 {
-    line-height: 2.5vw;
-    margin-left: 4.5vw;
+    line-height: 2.25vw;
+    margin-left: 1vw;
     margin-right: 2vw;
 
     font-size: 1.1vw;
-    font-weight: normal;
+    min-width: 500px;
 }
 
-/* Bullets should be placed before the list item */
-.listBullet
+.solutionList li
 {
-    width: 1.25%;
-    height: auto;
-    position: absolute;
-    margin-top: 1.15vw;
-    margin-left: 3.55vw
+    padding-bottom: 1.5vw;
 }
 
 .solutionStatistic
@@ -78,12 +73,35 @@
     margin-left: 2vw;
 }
 
-.solutionDollars
+/* For list problem on mobile where it moves with scaling */
+@media (max-width: 950px)
 {
-    position: absolute;
-    margin-left: 6.5vw;
+    .solutionList
+    {
+        margin-left: -2vw;
+    }
+}
 
-    color: green;
-    font-size: 1.5vw;
-    letter-spacing: 0.25vw
+@media (max-width: 850px)
+{
+    .solutionList
+    {
+        margin-left: -3vw;
+    }
+}
+
+@media (max-width: 750px)
+{
+    .solutionList
+    {
+        margin-left: -3vw;
+    }
+}
+
+@media (max-width: 650px)
+{
+    .solutionList
+    {
+        margin-left: -4vw;
+    }
 }
