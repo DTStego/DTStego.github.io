@@ -52,6 +52,15 @@
     font-size: 2.5vw;
 }
 
+/* Should adjust margin-top & margin-left in html */
+.solutionVideo
+{
+    position: absolute;
+    width: 30vw;
+    height: 17vw;
+    border: 0.2vw solid black;
+}
+
 .solutionList
 {
     line-height: 2.5vw;
