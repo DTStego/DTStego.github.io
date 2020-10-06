@@ -1,0 +1,72 @@
+/* Actual Solution Images */
+.solutions
+{
+    margin-top: 2vw;
+    margin-left: 0;
+    width: 90%;
+
+    border: 0.15vw solid black;
+}
+
+/* <Figure> */
+.solutionImages
+{
+    width: 25%;
+    float: left;
+    margin: -0.6vw;
+    text-align: center;
+    padding: 0 0 8vw;
+
+}
+
+.solutionCaption
+{
+    position: absolute;
+    font-size: 2.5vw;
+    font-family: "JetBrains Mono", sans-serif;
+    font-weight: normal;
+}
+
+/* Start of articles (CSS) */
+.solutionBox
+{
+    margin-bottom: 0;
+    background-color: white;
+    border-radius: 0.4vw;
+    color: black;
+    border: 0.15vw solid black;
+
+    margin-top: 5vw;
+    width: 31%;
+    height: 40vw;
+    position: relative;
+    display: inline-block;
+}
+
+.solutionTitle
+{
+    margin-top: 0.75vw;
+    margin-left: 1.25vw;
+
+    font-size: 2.5vw;
+}
+
+.solutionList
+{
+    line-height: 2.25vw;
+    margin-right: 1.8vw;
+    margin-left: 1vw;
+
+    font-size: 1.1vw;
+}
+
+.solutionList li
+{
+    padding-bottom: 1.5vw;
+}
+
+.solutionStatistic
+{
+    font-size: 1.5vw;
+    margin-left: 2vw;
+}

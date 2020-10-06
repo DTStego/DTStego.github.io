@@ -83,16 +83,6 @@ body:before {
     -webkit-text-stroke: 0.15vw black;
 }
 
-/* For the effects pictures on home page */
-.effects
-{
-    margin-top: 2vw;
-    margin-left: 0;
-    width: 90%;
-
-    border: 0.1vw solid ghostwhite;
-}
-
 .effectsWrapper
 {
     display: inline-block;
@@ -105,7 +95,18 @@ body:before {
     color: white;
 }
 
-.effectsIcons
+/* For the effects pictures on home page */
+.effects
+{
+    margin-top: 2vw;
+    margin-left: 0;
+    width: 90%;
+
+    border: 0.15vw solid ghostwhite;
+}
+
+/* <Figure> */
+.effectsImages
 {
     width: 25%;
     float: left;
