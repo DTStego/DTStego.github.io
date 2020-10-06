@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d04a4594-6a23-4b33-9bf6-ffd123adf27e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Circles/Effectiveness &amp; Environmental Impact - 0%.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Circles/Environmental Impact - 100%.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Circles/Environmental Impact - 50%.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tutorial/images/Solutions/Solar Energy - Environmental Impact.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tutorial/images/Solutions/Circles/Effectiveness - 0%.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/com/tutorial/solutionCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/solutionCSS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/tutorial/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/com/tutorial/solutions.html" afterDir="false" />
     </list>
@@ -119,7 +114,7 @@
       <workItem from="1601499935420" duration="29265000" />
       <workItem from="1601695548031" duration="3542000" />
       <workItem from="1601767241368" duration="34766000" />
-      <workItem from="1601964029546" duration="3676000" />
+      <workItem from="1601964029546" duration="5296000" />
     </task>
     <servers />
   </component>
