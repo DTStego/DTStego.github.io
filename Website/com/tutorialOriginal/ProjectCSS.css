@@ -1,0 +1,116 @@
+body
+{
+    /* No white border*/
+    margin: 0;
+    padding: 0;
+
+    /* Default font for all text (Overridable) */
+    font-family: "Segoe MDL2 Assets", sans-serif;
+}
+
+/* Background Image Stuff */
+body:before {
+    content: "";
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -10;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* Font stuff for title names stuff, e.g., Climate Change */
+.titleName
+{
+    position: absolute;
+    margin-left: 4.4vw;
+    margin-top: 6vw;
+
+    font-size: 6vw;
+    color: white;
+
+    -webkit-text-stroke: 0.225vw black;
+}
+
+.alternativeTitle
+{
+    position: absolute;
+    margin-left: 2.8vw;
+    margin-top: 3.8vw;
+
+    font-size: 5.5vw;
+    color: white;
+
+    -webkit-text-stroke: 0.225vw black;
+}
+
+/* Image that comes with the title (Usually below it), e.g., the wildfire picture below "Climate Change" */
+.titleImage
+{
+    /* To compensate for navbar */
+    margin-top: 3vw;
+
+    width: 100%;
+    height: auto;
+    display: inline-block;
+}
+
+.titleCitation
+{
+    position: absolute;
+    margin-left: calc(82vw);
+    margin-top: calc(28vw);
+    white-space: nowrap;
+
+    font-size: 1vw;
+    color: white;
+    background-color: black;
+}
+
+
+/* For stuff like "Effects" on the main page */
+.secondaryTitle
+{
+    color: white;
+    font-size: 4.5vw;
+    text-align: center;
+
+    -webkit-text-stroke: 0.15vw black;
+}
+
+.effectsWrapper
+{
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.effectsCaption
+{
+    font-size: 2vw;
+    color: white;
+}
+
+/* For the effects pictures on home page */
+.effects
+{
+    margin-top: 2vw;
+    margin-left: 0;
+    width: 90%;
+
+    border: 0.15vw solid ghostwhite;
+}
+
+/* <Figure> */
+.effectsImages
+{
+    width: 25%;
+    float: left;
+    margin: -0.2vw;
+    text-align: center;
+    padding: 0 0 10vw;
+}

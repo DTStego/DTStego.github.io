@@ -6,7 +6,6 @@ nav
     background-color: black;
     height: 3vw;
     width: 100%;
-    overflow: hidden;
 }
 
 nav ul
@@ -118,7 +117,7 @@ label.navbarTitle
     }
     label.navbarTitle
     {
-        line-height: 7.5vw;
+        line-height: 6.75vw;
         font-size: 3vw;
     }
     nav

@@ -62,14 +62,14 @@
       <recent name="C:\Users\Jimmy\Documents\GitHub\DTStego.github.io\Website\com\tutorial\images\Home" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.solutions.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="Project.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial/Project.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="SeniorProject.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Tutorial/com/tutorial/SeniorProject.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Stegosaurus.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Tutorial/com/tutorial/Stegosaurus.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial/index.html" useBuiltInWebServerPort="true">
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.solutions.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Project.html" />
         <item itemvalue="JavaScript Debug.SeniorProject.html" />
-        <item itemvalue="JavaScript Debug.Stegosaurus.html" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +112,7 @@
       <workItem from="1601499935420" duration="29265000" />
       <workItem from="1601695548031" duration="3542000" />
       <workItem from="1601767241368" duration="34766000" />
-      <workItem from="1601964029546" duration="6708000" />
+      <workItem from="1601964029546" duration="7107000" />
     </task>
     <servers />
   </component>
