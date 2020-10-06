@@ -30,16 +30,16 @@
 /* Start of articles (CSS) */
 .solutionBox
 {
-    margin-bottom: 3vw;
+    margin-bottom: 0;
     background-color: white;
     border-radius: 0.4vw;
     color: black;
     border: 0.25vw solid black;
 
-    margin-top: -18.75vw;
+    margin-top: 5vw;
     width: 32%;
     height: 40vw;
-    position: absolute;
+    position: relative;
     display: inline-block;
 
 }
@@ -55,11 +55,10 @@
 /* Should adjust margin-top & margin-left in html */
 .solutionVideo
 {
+    position: absolute;
     width: 30vw;
     height: 17vw;
-
     border: 0.2vw solid black;
-    border-radius: 0.3vw
 }
 
 .solutionList
