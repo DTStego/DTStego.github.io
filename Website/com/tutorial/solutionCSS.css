@@ -42,6 +42,7 @@
     position: relative;
     display: inline-block;
     white-space: nowrap;
+    overflow: hidden;
 
 }
 
@@ -57,8 +58,10 @@
 {
     line-height: 2.25vw;
     margin-left: 1vw;
+    margin-right: 2vw;
 
     font-size: 1.1vw;
+    min-width: 500px;
 }
 
 .solutionList li
@@ -70,4 +73,29 @@
 {
     font-size: 1.5vw;
     margin-left: 2vw;
+}
+
+/* For list problem on mobile where it moves with scaling */
+@media (max-width: 950px)
+{
+    .solutionList
+    {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 850px)
+{
+    .solutionList
+    {
+        margin-left: -1vw;
+    }
+}
+
+@media (max-width: 750px)
+{
+    .solutionList
+    {
+        margin-left: -2vw;
+    }
 }
