@@ -109,7 +109,7 @@ label.navbarTitle
         font-size: 3vw;
         color: black;
     }
-    a:hover
+    .active:hover
     {
         padding-bottom: 1.25vw;
         background: cornflowerblue;
