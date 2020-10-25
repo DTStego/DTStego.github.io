@@ -45,6 +45,21 @@
             });
         });
     </script>
+
+    <!-- Script for transparent navbar -->
+    <script>
+        $(window).scroll(function ()
+        {
+            if ($(window).scrollTop() >= 50)
+            {
+                $('nav').css('background', 'black');
+            }
+            else
+            {
+                $('nav').css('background', "#0004");
+            }
+        });
+    </script>
 </head>
 
 <!-- Thanks to https://stackoverflow.com/questions/26372127/background-fixed-no-repeat-not-working-on-mobile for fixing the background image! -->

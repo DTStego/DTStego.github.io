@@ -44,6 +44,21 @@
             });
         });
     </script>
+
+    <!-- Script for transparent navbar -->
+    <script>
+        $(window).scroll(function ()
+        {
+            if ($(window).scrollTop() >= 50)
+            {
+                $('nav').css('background', 'black');
+            }
+            else
+            {
+                $('nav').css('background', "#0004");
+            }
+        });
+    </script>
 </head>
 <body>
 <!-- Navigation Bar -->
@@ -60,7 +75,7 @@
         </ul>
     </nav>
 
-    <h1 class="alternativeTitle">Solutions</h1>
+    <h1 style="font-size: 5.25vw; margin-left: 1.75vw; margin-top: 3vw;" class="alternativeTitle">Solutions</h1>
     <img style="border-bottom: 0.25vw solid white" class="titleImage" src="images/Solutions/jpg/Solutions%20Background.jpg" alt="Geoengineering & Renewables">
 
     <h1 style="display: inline-block; margin-left: 6.5vw" class="secondaryTitle">Geoengineering</h1>
