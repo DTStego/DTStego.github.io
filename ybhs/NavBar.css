@@ -3,7 +3,6 @@ nav
     position: fixed;
     z-index: 5;
 
-    background-color: #0004;
     height: 3vw;
     width: 100%;
 }
@@ -66,6 +65,11 @@ label.navbarTitle
 
 @media (max-width: 1920px)
 {
+    nav
+    {
+        background-color: #0004;
+    }
+
     label.navbarTitle
     {
         font-size: 1.5vw;
@@ -85,6 +89,10 @@ label.navbarTitle
         display: block;
         font-size: 6vw;
         margin-top: 0.9vw;
+    }
+    nav
+    {
+        background-color: black;
     }
     nav ul
     {
