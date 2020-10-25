@@ -54,9 +54,13 @@
             {
                 $('nav').css('background', 'black');
             }
-            else
+            else if (window.innerWidth > 950)
             {
                 $('nav').css('background', "#0004");
+            }
+            else
+            {
+                $('nav').css('background', "black");
             }
         });
     </script>

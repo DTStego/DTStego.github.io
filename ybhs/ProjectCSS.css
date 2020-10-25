@@ -40,10 +40,10 @@ body:before {
 .alternativeTitle
 {
     position: absolute;
-    margin-left: 2.8vw;
-    margin-top: 3.8vw;
+    margin-left: 1.75vw;
+    margin-top: 3vw;
 
-    font-size: 5.5vw;
+    font-size: 5.25vw;
     color: white;
 
     -webkit-text-stroke: 0.225vw black;
