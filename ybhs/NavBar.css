@@ -5,6 +5,7 @@ nav
 
     height: 3vw;
     width: 100%;
+    transition: 0.5s;
 }
 
 nav ul
@@ -37,7 +38,7 @@ nav ul li a
 .active:hover
 {
     background: darkblue;
-    transition: .4s;
+    transition: .5s;
 }
 
 label.navbarTitle
