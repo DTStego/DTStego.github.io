@@ -61,7 +61,7 @@ body:before {
 {
     position: absolute;
     margin-left: calc(82vw);
-    margin-top: calc(28vw);
+    margin-top: calc(25vw);
     white-space: nowrap;
 
     font-size: 1vw;
