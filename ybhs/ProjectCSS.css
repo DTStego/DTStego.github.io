@@ -90,6 +90,7 @@ body:before {
 {
     font-size: 2vw;
     color: white;
+    text-shadow: 0 0 2vw dimgray, 0 0 2vw dimgray;
 }
 
 /* For the effects pictures on home page */
@@ -127,11 +128,16 @@ body:before {
     margin-top: 2vw;
     width: 90%;
 
-    border: 0.2vw solid black;
+    border: 0.2vw solid ghostwhite;
     border-radius: 0.5vw;
 }
 
 .positionCaption
 {
-
+    position: absolute;
+    font-size: 2.5vw;
+    font-family: "JetBrains Mono", sans-serif;
+    font-weight: normal;
+    color: white;
+    text-shadow: 0 0 4vw black, 0 0 4vw black;
 }
