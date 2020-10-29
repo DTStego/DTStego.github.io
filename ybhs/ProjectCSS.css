@@ -74,13 +74,13 @@ body:before {
 .secondaryTitle
 {
     color: white;
-    font-size: 4.5vw;
+    font-size: 5vw;
     text-align: center;
 
     -webkit-text-stroke: 0.15vw black;
 }
 
-.effectsWrapper
+.imagesWrapper
 {
     display: inline-block;
     white-space: nowrap;
@@ -99,7 +99,8 @@ body:before {
     margin-left: 0;
     width: 90%;
 
-    border: 0.15vw solid ghostwhite;
+    border: 0.15vw solid floralwhite;
+    border-radius: 0.25vw;
 }
 
 /* <Figure> */
@@ -110,4 +111,27 @@ body:before {
     margin: -0.2vw;
     text-align: center;
     padding: 0 0 10vw;
+}
+
+.position
+{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 0 0 8vw;
+    margin: 1vw 0 0 1.5vw;
+}
+
+.positionImages
+{
+    margin-top: 2vw;
+    width: 90%;
+
+    border: 0.2vw solid black;
+    border-radius: 0.5vw;
+}
+
+.positionCaption
+{
+
 }
