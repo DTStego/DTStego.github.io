@@ -86,15 +86,16 @@ body:before {
     white-space: nowrap;
 }
 
-.effectsCaption
+.effects
 {
-    font-size: 2vw;
-    color: white;
-    text-shadow: 0 0 2vw dimgray, 0 0 2vw dimgray;
+    width: 25%;
+    float: left;
+    margin: -0.2vw;
+    text-align: center;
+    padding: 0 0 10vw;
 }
 
-/* For the effects pictures on home page */
-.effects
+.effectsImages
 {
     margin-top: 2vw;
     margin-left: 0;
@@ -104,14 +105,11 @@ body:before {
     border-radius: 0.25vw;
 }
 
-/* <Figure> */
-.effectsImages
+.effectsCaption
 {
-    width: 25%;
-    float: left;
-    margin: -0.2vw;
-    text-align: center;
-    padding: 0 0 10vw;
+    font-size: 2vw;
+    color: white;
+    text-shadow: 0 0 2vw dimgray, 0 0 2vw dimgray;
 }
 
 .position
@@ -138,6 +136,7 @@ body:before {
     font-size: 2.5vw;
     font-family: "JetBrains Mono", sans-serif;
     font-weight: normal;
+    margin-top: 0.5vw;
     color: white;
     text-shadow: 0 0 2vw black, 0 0 2vw black;
 }
