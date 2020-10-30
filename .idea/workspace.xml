@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d04a4594-6a23-4b33-9bf6-ffd123adf27e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ybhs/images/Current Policies/Funding &amp; Testing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ybhs/images/Current Policies/Increases.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ybhs/images/Current Policies/Testing.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/ProjectCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/ProjectCSS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ybhs/policies.html" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/policies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/solutionCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/solutionCSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +127,7 @@
       <workItem from="1603823100593" duration="67000" />
       <workItem from="1603847493763" duration="3228000" />
       <workItem from="1603936927826" duration="9338000" />
-      <workItem from="1604074253473" duration="2402000" />
+      <workItem from="1604074253473" duration="2665000" />
     </task>
     <servers />
   </component>
