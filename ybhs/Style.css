@@ -45,14 +45,14 @@ h1
     font-size: calc(1vw);
 
     font-family: "Arial", sans-serif;
-    color: white;
+    color: ghostwhite;
     background-color: black;
 }
 
 body
 {
     background-repeat: no-repeat;
-    background-color: whitesmoke;
+    background-color: ghostwhite;
     margin: 0;
     width: 100%;
     height: auto;

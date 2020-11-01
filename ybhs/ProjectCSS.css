@@ -38,7 +38,7 @@ iframe
     margin-top: 6vw;
 
     font-size: 6vw;
-    color: white;
+    color: ghostwhite;
 
     -webkit-text-stroke: 0.225vw black;
 }
@@ -50,7 +50,7 @@ iframe
     margin-top: 3vw;
 
     font-size: 5.25vw;
-    color: white;
+    color: ghostwhite;
 
     -webkit-text-stroke: 0.225vw black;
 }
@@ -71,7 +71,7 @@ iframe
     white-space: nowrap;
 
     font-size: 1vw;
-    color: white;
+    color: ghostwhite;
     background-color: black;
 }
 
@@ -79,7 +79,7 @@ iframe
 /* For stuff like "Effects" on the main page */
 .secondaryTitle
 {
-    color: white;
+    color: ghostwhite;
     font-size: 5vw;
     text-align: center;
 
@@ -114,7 +114,7 @@ iframe
 .effectsCaption
 {
     font-size: 2vw;
-    color: white;
+    color: ghostwhite;
     text-shadow: 0 0 2vw ghostwhite;
 }
 
@@ -145,14 +145,14 @@ iframe
     font-family: "JetBrains Mono", sans-serif;
     font-weight: normal;
     margin-top: 0.5vw;
-    color: white;
+    color: ghostwhite;
     text-shadow: 0 0 2vw black, 0 0 2vw black, 0 0 2vw black;
 }
 
 .policyBox
 {
     margin-left: 8vw;
-    background-color: lightgrey;
+    background-color: ghostwhite;
     color: black;
     border: 0.2vw solid black;
 
@@ -163,7 +163,7 @@ iframe
 .policyBoxTitle
 {
     font-size: 7vw;
-    color: white;
+    color: ghostwhite;
     margin-top: 2.5vw;
     -webkit-text-stroke: 0.15vw black;
 
