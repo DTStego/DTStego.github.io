@@ -24,6 +24,12 @@ body:before {
     background-size: cover;
 }
 
+iframe
+{
+    border: 0.25vw solid black;
+    border-radius: 0.15vw;
+}
+
 /* Font stuff for title names stuff, e.g., Climate Change */
 .titleName
 {
@@ -112,6 +118,8 @@ body:before {
     text-shadow: 0 0 2vw ghostwhite;
 }
 
+/* Current Policies Page */
+
 .position
 {
     width: 30%;
@@ -139,4 +147,47 @@ body:before {
     margin-top: 0.5vw;
     color: white;
     text-shadow: 0 0 2vw black, 0 0 2vw black, 0 0 2vw black;
+}
+
+.policyBox
+{
+    margin-left: 8vw;
+    background-color: lightgrey;
+    color: black;
+    border: 0.2vw solid black;
+
+    width: 82.5%;
+    height: 43vw;
+}
+
+.policyBoxTitle
+{
+    font-size: 7vw;
+    color: white;
+    margin-top: 3vw;
+    -webkit-text-stroke: 0.15vw black;
+
+    position: absolute;
+}
+
+.policyBoxPicture
+{
+    width: 100.01%;
+    height: auto;
+}
+
+.policyBoxSummary
+{
+    font-size: 1.5vw;
+    line-height: 3vw;
+    margin-left: 3vw;
+    margin-top: 1vw;
+}
+
+.policyBoxVideo
+{
+    position: absolute;
+    width: 38vw;
+    height: 21vw;
+    margin-top: 19.25vw;
 }
