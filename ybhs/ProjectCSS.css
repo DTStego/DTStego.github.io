@@ -152,6 +152,8 @@ iframe
 .policyBox
 {
     margin-left: 8vw;
+    margin-top: 8vw;
+
     background-color: ghostwhite;
     color: black;
     border: 0.2vw solid black;
@@ -165,7 +167,7 @@ iframe
     font-size: 8vw;
     font-family: Sriracha, sans-serif; !important;
     color: ghostwhite;
-    margin-top: 0vw;
+    margin-top: 0;
     -webkit-text-stroke: 0.25vw black;
 
     position: absolute;
@@ -173,6 +175,7 @@ iframe
 
 .policyBoxPicture
 {
+    margin-top: -0.01vw;
     width: 100.01%;
     height: auto;
 }
