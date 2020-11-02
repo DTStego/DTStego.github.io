@@ -52,7 +52,7 @@ iframe
     font-size: 5.25vw;
     color: ghostwhite;
 
-    -webkit-text-stroke: 0.225vw black;
+    -webkit-text-stroke: 0.175vw black;
 }
 
 /* Image that comes with the title (Usually below it), e.g., the wildfire picture below "Climate Change" */
@@ -162,10 +162,11 @@ iframe
 
 .policyBoxTitle
 {
-    font-size: 7vw;
+    font-size: 8vw;
+    font-family: Sriracha, sans-serif; !important;
     color: ghostwhite;
-    margin-top: 2.5vw;
-    -webkit-text-stroke: 0.15vw black;
+    margin-top: 0vw;
+    -webkit-text-stroke: 0.25vw black;
 
     position: absolute;
 }
@@ -188,6 +189,6 @@ iframe
 {
     position: absolute;
     width: 38vw;
-    height: 21vw;
-    margin-top: 19.25vw;
+    height: 21.25vw;
+    margin-top: 18vw;
 }
