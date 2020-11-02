@@ -1,3 +1,8 @@
+@font-face { font-family: Quicksand; src: url('fonts/Quicksand-Regular.ttf'); }
+@font-face { font-family: Quicksand-Medium; font-weight: bold; src: url('fonts/Quicksand-Medium.ttf');}
+@font-face { font-family: Quicksand-Bold; font-weight: bold; src: url('fonts/Quicksand-SemiBold.ttf');}
+@font-face { font-family: Sriracha-Working; font-weight: bold; src: url('fonts/Sriracha-Regular.ttf');}
+
 body
 {
     /* No white border*/
