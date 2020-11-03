@@ -185,12 +185,13 @@ iframe
     height: auto;
 }
 
-.policyBoxSummary
+.policyBoxText
 {
-    font-size: 1.5vw;
-    line-height: 3vw;
-    margin-left: 3vw;
+    font-size: 1.2vw;
+    line-height: 2.5vw;
+    margin-left: 2.75vw;
     margin-top: 1vw;
+    font-family: Quicksand-Bold, sans-serif;
 }
 
 .policyBoxVideo
@@ -199,4 +200,13 @@ iframe
     width: 38vw;
     height: 21.25vw;
     margin-top: 18vw;
+}
+
+.listBullet
+{
+    width: 0.4%;
+    height: auto;
+    position: absolute;
+    margin-left: 1.8vw;
+    margin-top: 2vw
 }
