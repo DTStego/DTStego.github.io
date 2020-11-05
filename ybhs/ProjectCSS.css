@@ -95,6 +95,7 @@ iframe
 {
     display: inline-block;
     white-space: nowrap;
+    font-family: Quicksand-Medium, serif;
 }
 
 .effects
@@ -147,7 +148,7 @@ iframe
 {
     position: absolute;
     font-size: 2.5vw;
-    font-family: "JetBrains Mono", sans-serif;
+    font-family: "Quicksand-Medium", sans-serif;
     font-weight: normal;
     margin-top: 0.5vw;
     color: ghostwhite;

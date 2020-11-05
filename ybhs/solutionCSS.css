@@ -1,3 +1,8 @@
+@font-face { font-family: Quicksand; src: url('fonts/Quicksand-Regular.ttf'); }
+@font-face { font-family: Quicksand-Medium; font-weight: bold; src: url('fonts/Quicksand-Medium.ttf');}
+@font-face { font-family: Quicksand-Bold; font-weight: bold; src: url('fonts/Quicksand-SemiBold.ttf');}
+@font-face { font-family: Sriracha-Working; font-weight: bold; src: url('fonts/Sriracha-Regular.ttf');}
+
 /* Actual Solution Images */
 .solutions
 {
@@ -24,7 +29,7 @@
 {
     position: absolute;
     font-size: 2.5vw;
-    font-family: "JetBrains Mono", sans-serif;
+    font-family: "Quicksand-Medium", sans-serif;
     font-weight: normal;
     text-shadow: 0 0 2vw ghostwhite, 0 0 2vw ghostwhite, 0 0 2vw ghostwhite, 0 0 2vw ghostwhite;
 }
@@ -43,6 +48,7 @@
     height: 41vw;
     position: relative;
     display: inline-block;
+    font-family: Quicksand-Medium, sans-serif;
 
 }
 
@@ -52,6 +58,7 @@
     margin-left: 1.25vw;
 
     font-size: 2.5vw;
+    font-family: Quicksand-Bold, sans-serif;
 }
 
 /* Should adjust margin-top & margin-left in html */
