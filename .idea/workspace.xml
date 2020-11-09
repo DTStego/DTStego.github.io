@@ -21,11 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d04a4594-6a23-4b33-9bf6-ffd123adf27e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/Articles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/Articles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/ProjectCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/ProjectCSS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ybhs/policies.html" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/policies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/solutionCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/solutionCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/solutions.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,7 @@
       <recent name="C:\Users\Jimmy\Documents\GitHub\DTStego.github.io\Website\com\tutorial\images\Home" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.solutions.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.policies.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -86,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.solutions.html (1)" />
         <item itemvalue="JavaScript Debug.policies.html" />
+        <item itemvalue="JavaScript Debug.solutions.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -136,7 +132,9 @@
       <workItem from="1604203327077" duration="6608000" />
       <workItem from="1604284011207" duration="9183000" />
       <workItem from="1604367469153" duration="11186000" />
-      <workItem from="1604556264003" duration="1732000" />
+      <workItem from="1604556264003" duration="2333000" />
+      <workItem from="1604901106226" duration="255000" />
+      <workItem from="1604901391714" duration="794000" />
     </task>
     <servers />
   </component>
