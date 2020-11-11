@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d04a4594-6a23-4b33-9bf6-ffd123adf27e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ybhs/images/Obstacles/TitlePicture.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/policies.html" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/policies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ybhs/obstacles.html" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/obstacles.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,14 +65,14 @@
       <recent name="C:\Users\Jimmy\Documents\GitHub\DTStego.github.io\Website\com\tutorial\images\Home" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.policies.html">
+  <component name="RunManager" selected="JavaScript Debug.obstacles.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DTStego.github.io/ybhs/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/com/tutorial/index.html" useBuiltInWebServerPort="true">
+    <configuration name="obstacles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DTStego.github.io/ybhs/obstacles.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="policies.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DTStego.github.io/ybhs/policies.html" useBuiltInWebServerPort="true">
@@ -82,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.obstacles.html" />
         <item itemvalue="JavaScript Debug.policies.html" />
         <item itemvalue="JavaScript Debug.solutions.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +135,8 @@
       <workItem from="1604367469153" duration="11186000" />
       <workItem from="1604556264003" duration="2333000" />
       <workItem from="1604901106226" duration="255000" />
-      <workItem from="1604901391714" duration="794000" />
+      <workItem from="1604901391714" duration="831000" />
+      <workItem from="1605069122742" duration="2380000" />
     </task>
     <servers />
   </component>
@@ -240,6 +242,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601434422742" />
+    <state x="0" y="0" width="1521" height="1027" key="dock-window-1" timestamp="1605071512980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1521" height="1027" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1605071512980" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1603849789461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
