@@ -2,6 +2,8 @@
 @font-face { font-family: Quicksand-Medium; font-weight: bold; src: url('fonts/Quicksand-Medium.ttf');}
 @font-face { font-family: Quicksand-Bold; font-weight: bold; src: url('fonts/Quicksand-SemiBold.ttf');}
 @font-face { font-family: Sriracha-Working; font-weight: bold; src: url('fonts/Sriracha-Regular.ttf');}
+@font-face { font-family: Sriracha-Working; font-weight: bold; src: url('fonts/Sriracha-Regular.ttf');}
+@font-face { font-family: Lekton-Bold; font-weight: bold; src: url('fonts/Lekton-Bold.ttf');}
 
 body
 {
@@ -89,6 +91,7 @@ iframe
     text-align: center;
 
     -webkit-text-stroke: 0.15vw black;
+
 }
 
 .imagesWrapper
