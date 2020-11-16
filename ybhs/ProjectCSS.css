@@ -160,7 +160,7 @@ iframe
     border-radius: 0.5vw;
 }
 
-.positionCaption
+.positionCaptions
 {
     position: absolute;
     font-size: 2.5vw;
@@ -225,4 +225,34 @@ iframe
     height: auto;
     position: absolute;
     margin-left: 1.8vw;
+}
+
+.obstacles
+{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 0 0 8vw;
+    margin: -1.5vw 0 0 1.5vw;
+}
+
+.obstacleImages
+{
+    margin-top: 1.5vw;
+    width: 90%;
+
+    border: 0.2vw solid black;
+    border-radius: 0.35vw
+}
+
+.obstacleCaptions
+{
+    position: absolute;
+    font-size: 2.5vw;
+    font-family: "Quicksand-Medium", sans-serif;
+    background-color: #575959;
+    font-weight: normal;
+    margin-top: 0.5vw;
+    color: white;
+    text-shadow: 0 0 2vw black, 0 0 2vw black, 0 0 2vw darkslategray;
 }
