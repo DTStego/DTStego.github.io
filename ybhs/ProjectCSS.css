@@ -62,6 +62,19 @@ iframe
     -webkit-text-stroke: 0.175vw black;
 }
 
+/* Needs new css for each page title, or else interferes with mobile scaling (margin-top) */
+.alternativeTitle2
+{
+    position: absolute;
+    margin-left: 2.5vw;
+    margin-top: 3.25vw;
+
+    font-size: 7.5vw;
+    color: ghostwhite;
+
+    -webkit-text-stroke: 0.225vw black;
+}
+
 /* Image that comes with the title (Usually below it), e.g., the wildfire picture below "Climate Change" */
 .titleImage
 {

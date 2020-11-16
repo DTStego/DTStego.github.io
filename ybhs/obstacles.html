@@ -47,6 +47,24 @@
             });
         });
     </script>
+    <!-- Script for transparent navbar -->
+    <script>
+        $(window).scroll(function ()
+        {
+            if ($(window).scrollTop() >= 10 && window.innerWidth > 950)
+            {
+                $('nav').css('background', 'black');
+            }
+            else if (window.innerWidth > 950)
+            {
+                $('nav').css('background', "#0004");
+            }
+            else
+            {
+                $('nav').css('background', "black");
+            }
+        });
+    </script>
 </head>
 <body>
 <!-- Navigation Bar -->
@@ -62,7 +80,7 @@
         </ul>
     </nav>
 
-    <h1 style="font-size: 7vw; margin-top: 4vw; margin-left: 4vw" class="titleName">Obstacles</h1>
+    <h1 style="" class="alternativeTitle2">Obstacles</h1>
     <img style="border-bottom: 0.1vw solid ghostwhite" class="titleImage" src="images/Obstacles/TitlePicture.png" alt="3-pronged picture of climate change ">
 
 
