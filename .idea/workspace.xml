@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d04a4594-6a23-4b33-9bf6-ffd123adf27e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ybhs/images/Obstacles/Effectiveness &amp; Reliability Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ybhs/images/Obstacles/Effectiveness &amp; Reliability.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ybhs/images/Obstacles/Global Cooperation Background.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/images/Obstacles/Reliability &amp; Effectiveness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ybhs/ProjectCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/ProjectCSS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ybhs/obstacles.html" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/obstacles.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,6 +141,7 @@
       <workItem from="1605413770922" duration="53000" />
       <workItem from="1605491061375" duration="12366000" />
       <workItem from="1605761054654" duration="7936000" />
+      <workItem from="1605848357336" duration="1367000" />
     </task>
     <servers />
   </component>

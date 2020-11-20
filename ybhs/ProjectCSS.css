@@ -279,3 +279,13 @@ iframe
     -webkit-text-stroke: 0.125vw black;
     color: white;
 }
+
+/* Sub-titles for obstacle articles */
+.obstacleSubTitles
+{
+    position: absolute;
+    font-size: 5vw;
+    font-family: Rubik-Medium, "sans-serif";
+    -webkit-text-stroke: 0.1vw black;
+    color: white;
+}
