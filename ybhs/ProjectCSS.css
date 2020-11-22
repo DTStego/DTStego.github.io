@@ -7,6 +7,7 @@
 @font-face { font-family: Rubik-Regular; src: url('fonts/Rubik-Regular.ttf');}
 @font-face { font-family: Rubik-Medium; src: url('fonts/Rubik-Medium.ttf');}
 @font-face { font-family: Rubik-Variable; src: url('fonts/Rubik-VariableFont_wght.ttf');}
+@font-face { font-family: Varela; src: url('fonts/VarelaRound-Regular.ttf');}
 
 body
 {
@@ -284,8 +285,8 @@ iframe
 .obstacleSubTitles
 {
     position: absolute;
-    font-size: 5vw;
-    font-family: Rubik-Medium, "sans-serif";
-    -webkit-text-stroke: 0.1vw black;
+    font-size: 4vw;
+    font-family: Varela, "sans-serif";
+    text-shadow: 0 0 2vw black, 0 0 2vw black, 0 0 2vw black, 0 0 2vw black;
     color: white;
 }
