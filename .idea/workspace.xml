@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d04a4594-6a23-4b33-9bf6-ffd123adf27e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/ProjectCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/ProjectCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/images/Future/TitlePicture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ybhs/images/Obstacles/Effectiveness &amp; Reliability Background.png" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/images/Obstacles/Effectiveness &amp; Reliability Background.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ybhs/obstacles.html" beforeDir="false" afterPath="$PROJECT_DIR$/ybhs/obstacles.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +142,7 @@
       <workItem from="1605761054654" duration="7936000" />
       <workItem from="1605848357336" duration="3491000" />
       <workItem from="1606007645890" duration="2306000" />
-      <workItem from="1606020760044" duration="8676000" />
+      <workItem from="1606020760044" duration="12085000" />
     </task>
     <servers />
   </component>
@@ -259,9 +256,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603849789461" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605762649384">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606106366816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605762649384" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606106366816" />
   </component>
 </project>
