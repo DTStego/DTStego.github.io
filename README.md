@@ -1,4 +1,4 @@
-Website Link: DTStego.github.io
+Link: [https://dtstego.github.io/index.html](https://dtstego.github.io/index.html)
 
 Hi! This is the repository for my history project involving climate change action/activism. 
 It includes four pages detailing the problems and potential solutions to Climate Change.
